@@ -6,3 +6,5 @@ def fact(N):
 
 N = int(input("ENTER THE ELEMENT OF WHICH U WANT THE FACTORIAL"))
 fact(N)
+
+print("hello world")
